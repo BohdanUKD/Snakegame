@@ -28,8 +28,8 @@ def main():
     exit_button.pack(pady=10)
 
     # Створення розмірів екрану
-    window_width = 1000
-    window_height = 1000
+    window_width = 800
+    window_height = 800
     screen_width = window.winfo_screenwidth()
     screen_height = window.winfo_screenheight()
 
