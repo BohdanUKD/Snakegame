@@ -1,3 +1,6 @@
 # Snakegame
 
-## Start in main file
+## Запустити в main
+
+Керувати стрілочками: ←, →, ↑, ↓.
+
