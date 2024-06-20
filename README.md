@@ -1,3 +1,3 @@
 # Snakegame
 
-# Start in main file
+## Start in main file
